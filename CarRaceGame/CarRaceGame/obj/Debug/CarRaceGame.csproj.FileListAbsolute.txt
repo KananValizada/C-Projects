@@ -1,0 +1,9 @@
+C:\Users\Co\Desktop\C# Projects\CarRaceGame\CarRaceGame\bin\Debug\CarRaceGame.exe.config
+C:\Users\Co\Desktop\C# Projects\CarRaceGame\CarRaceGame\bin\Debug\CarRaceGame.exe
+C:\Users\Co\Desktop\C# Projects\CarRaceGame\CarRaceGame\bin\Debug\CarRaceGame.pdb
+C:\Users\Co\Desktop\C# Projects\CarRaceGame\CarRaceGame\obj\Debug\CarRaceGame.csprojAssemblyReference.cache
+C:\Users\Co\Desktop\C# Projects\CarRaceGame\CarRaceGame\obj\Debug\CarRaceGame.Form1.resources
+C:\Users\Co\Desktop\C# Projects\CarRaceGame\CarRaceGame\obj\Debug\CarRaceGame.Properties.Resources.resources
+C:\Users\Co\Desktop\C# Projects\CarRaceGame\CarRaceGame\obj\Debug\CarRaceGame.csproj.GenerateResource.cache
+C:\Users\Co\Desktop\C# Projects\CarRaceGame\CarRaceGame\obj\Debug\CarRaceGame.exe
+C:\Users\Co\Desktop\C# Projects\CarRaceGame\CarRaceGame\obj\Debug\CarRaceGame.pdb
